@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rihen-w/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rihen-w/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/rihen-w/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/rihen-w/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rihen-w/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rihen-w/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
