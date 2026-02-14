@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rihen-w/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rihen-w/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/rihen-w/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/rihen-w/LeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/rihen-w/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/rihen-w/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0782-jewels-and-stones](https://github.com/rihen-w/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rihen-w/LeetCode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
