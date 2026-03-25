@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/rihen-w/LeetCode/tree/master/1693-daily-leads-and-partners) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/rihen-w/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
