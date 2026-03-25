@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rihen-w/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/rihen-w/LeetCode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
