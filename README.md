@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rihen-w/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rihen-w/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/rihen-w/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/rihen-w/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/rihen-w/LeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rihen-w/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/rihen-w/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
