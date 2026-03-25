@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rihen-w/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/rihen-w/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/rihen-w/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/rihen-w/LeetCode/tree/master/2556-convert-the-temperature) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rihen-w/LeetCode/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/rihen-w/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/rihen-w/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/rihen-w/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -87,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
