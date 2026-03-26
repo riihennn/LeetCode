@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rihen-w/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/rihen-w/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/rihen-w/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/rihen-w/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/rihen-w/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/rihen-w/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rihen-w/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
