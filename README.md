@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rihen-w/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/rihen-w/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/rihen-w/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/rihen-w/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/rihen-w/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rihen-w/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
+| [0804-unique-morse-code-words](https://github.com/rihen-w/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rihen-w/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rihen-w/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/rihen-w/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/rihen-w/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/rihen-w/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting
