@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/rihen-w/LeetCode/tree/master/2383-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/rihen-w/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2556-convert-the-temperature](https://github.com/rihen-w/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3099-harshad-number](https://github.com/rihen-w/LeetCode/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
