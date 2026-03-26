@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rihen-w/LeetCode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/rihen-w/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rihen-w/LeetCode/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rihen-w/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rihen-w/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rihen-w/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/rihen-w/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -73,9 +76,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/rihen-w/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rihen-w/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rihen-w/LeetCode/tree/master/0832-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/rihen-w/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
